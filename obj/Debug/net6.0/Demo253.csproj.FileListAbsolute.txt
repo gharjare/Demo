@@ -1,0 +1,15 @@
+C:\Users\Achal\source\repos\Demo253\Demo253\bin\Debug\net6.0\Demo253.exe
+C:\Users\Achal\source\repos\Demo253\Demo253\bin\Debug\net6.0\Demo253.deps.json
+C:\Users\Achal\source\repos\Demo253\Demo253\bin\Debug\net6.0\Demo253.runtimeconfig.json
+C:\Users\Achal\source\repos\Demo253\Demo253\bin\Debug\net6.0\Demo253.dll
+C:\Users\Achal\source\repos\Demo253\Demo253\bin\Debug\net6.0\Demo253.pdb
+C:\Users\Achal\source\repos\Demo253\Demo253\obj\Debug\net6.0\Demo253.csproj.AssemblyReference.cache
+C:\Users\Achal\source\repos\Demo253\Demo253\obj\Debug\net6.0\Demo253.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Achal\source\repos\Demo253\Demo253\obj\Debug\net6.0\Demo253.AssemblyInfoInputs.cache
+C:\Users\Achal\source\repos\Demo253\Demo253\obj\Debug\net6.0\Demo253.AssemblyInfo.cs
+C:\Users\Achal\source\repos\Demo253\Demo253\obj\Debug\net6.0\Demo253.csproj.CoreCompileInputs.cache
+C:\Users\Achal\source\repos\Demo253\Demo253\obj\Debug\net6.0\Demo253.dll
+C:\Users\Achal\source\repos\Demo253\Demo253\obj\Debug\net6.0\refint\Demo253.dll
+C:\Users\Achal\source\repos\Demo253\Demo253\obj\Debug\net6.0\Demo253.pdb
+C:\Users\Achal\source\repos\Demo253\Demo253\obj\Debug\net6.0\Demo253.genruntimeconfig.cache
+C:\Users\Achal\source\repos\Demo253\Demo253\obj\Debug\net6.0\ref\Demo253.dll
